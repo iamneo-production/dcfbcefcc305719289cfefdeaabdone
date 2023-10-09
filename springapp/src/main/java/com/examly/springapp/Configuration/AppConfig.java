@@ -1,8 +1,8 @@
-package com.examly.springapp.Configuration;
+package com.examly.springapp.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import your.package.com.examly.springapp.model.Student;
+import com.examly.springapp.model.Student; 
 
 @Configuration
 public class AppConfig {
